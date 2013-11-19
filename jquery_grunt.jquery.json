@@ -1,0 +1,27 @@
+{
+  "name": "jquery_grunt",
+  "title": "jquery_grunt",
+  "description": "this is for jquery to test grunt",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doomking/gruntDemo",
+  "author": {
+    "name": "doomking",
+    "email": "xghan.cn@gmail.com",
+    "url": "www.github.com/doomking"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doomking/gruntDemo.git"
+  },
+  "bugs": "https://github.com/doomking/gruntDemo/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/doomking/gruntDemo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.4.2"
+  },
+  "keywords": []
+}
